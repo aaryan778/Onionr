@@ -89,9 +89,3 @@ Master may be unstable, you should use the latest release tag. (checkout via git
 * Run Onionr in background as daemon: `$ ./start-daemon.sh`
 * Open Onionr web interface  `$ ./onionr.sh openhome`
 * Gracefully stop Onionr from CLI `$ ./onionr.sh stop`
-
-
-# Contact/Community
-
-# Email: beardog [ at ] mailbox.org
-# Matrix: #onionr:amorgan.xyz
